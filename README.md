@@ -11,7 +11,7 @@
  <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/svg/306358/lua" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/306358/lua.svg" height="40"></code>
 </div>
 
 <!--
