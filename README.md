@@ -6,18 +6,7 @@
   </a>
 </p>
 <br>
-<div align="center">
- <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
-  <code><img src="https://www.svgrepo.com/show/452192/c#.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/354119/json-icon.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353805/codeigniter.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452129/unity.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/530444/lua.svg" height="40"></code>
-</div>
+
 <!--
 **RAHMAND4/RAHMAND4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
