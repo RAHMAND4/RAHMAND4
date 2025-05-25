@@ -1,12 +1,10 @@
 
-![Rahmanda GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHMAND4&show_icons=true&theme=radical)
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAHMAND4&layout=compact&langs_count=8&theme=dark"/>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RAHMAND4/count.svg" />
+<p align="center">
+  <a href="https://github.com/eeryyy282">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eeryyy282&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats Card" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eeryyy282&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
 </p>
-
 <!--
 **RAHMAND4/RAHMAND4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
